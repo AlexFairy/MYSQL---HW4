@@ -1,3 +1,14 @@
+/*THE REASONING BEHIND MY CODE*/
+/*
+
+I do my MSQL files like this because I like to know the steps I took to modify this file.
+I am not an expert, I am only a student and I need to be able to see what I did in order to retain my knowledge.
+My reasoning for the PYTHON FILE was based off Donovan's examples; I also learned from other resources.
+I also felt as if other examples were too difficult, especially when modifying the MYSQL tables from Python,
+so I decided to make it shorter and CLEANER.
+
+*/
+
 USE gym_db;
 
 /*
