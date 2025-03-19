@@ -7,6 +7,13 @@ My reasoning for the PYTHON FILE was based off Donovan's examples; I also learne
 I also felt as if other examples were too difficult, especially when modifying the MYSQL tables from Python,
 so I decided to make it shorter and CLEANER.
 
+
+In terms of this:
+
+GRANT ALL PRIVILEGES ON gym_db.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
+
+I had to do it this way, because VSC wouldn't connect with MySQL Workbench. That is the reason behind that.
 */
 
 USE gym_db;
